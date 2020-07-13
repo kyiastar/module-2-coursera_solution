@@ -1,0 +1,48 @@
+
+
+font-family: 'Dancing Script', cursive;
+font-family: 'Oswald', sans-serif;
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size 45px;
+  font-color: #04030f;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  color: #04030f;
+  font-weight: 400;
+  line-height: 1.58;
+  letter-spacing: -.003em;
+  font-size: 20px;
+  padding: 30px;
+  text-align: right;
+}
+
+h1 {font-family: 'Oswald', sans-serif;
+color:}
+
+p {
+  background-color: #f3d0f5;
+  width: 90%;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Oswald', sans-serif;
+  color: #04030f;
+  text-align: left;
+  font-size: 30px;
+}
+
+.columns {
+  columns: 100px 3;
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+  height: 300px;
+  border: 10px;
+  border-color: black;
+  box-sizing: border-box;
+}
